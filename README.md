@@ -271,24 +271,24 @@
 
 # 💻 서비스 화면
 
-
 |                                     |                                      |
 |-------------------------------------|--------------------------------------|
 | <img src="/READMEfile/로그인.png">     | <img src="/READMEfile/회원가입.PNG">     |
 | <div align=center> `로그인` </div>     | <div align=center> `회원가입` </div>     |
-| <img src="/READMEfile/창고목록.PNG">    | <img src="/READMEfile/재고관리영상.mp4">   |
+| <img src="/READMEfile/창고목록.PNG">    | ![재고관리영상](https://github.com/user-attachments/assets/7272e352-53a2-40e2-b987-29c1aacdb478)   |
 | <div align=center> `창고 등록` </div>   | <div align=center> `창고 관리` </div>    |
-| <img src="/READMEfile/창고구매.mp4">    | <img src="/READMEfile/창고생성.mp4">     |
+| ![창고구매](https://github.com/user-attachments/assets/48dde181-9294-4263-861e-beeb90c03794)    | ![창고생성](https://github.com/user-attachments/assets/d04f78ae-3e27-41f9-b034-682f4f52d7f1)     |
 | <div align=center> `창고 구매` </div>   | <div align=center> `창고 생성` </div>    |
-| <img src="/READMEfile/로케이션생성.mp4">  | <img src="/READMEfile/벽생성.mp4">      |
+| ![로케이션생성](https://github.com/user-attachments/assets/c94601ae-6f2e-4a56-b0a6-2511deaa7248)  | ![벽생성](https://github.com/user-attachments/assets/acd0bc3a-46b7-43d8-9e60-310d37bb1a10)      |
 | <div align=center> `로케이션 생성` </div> | <div align=center> `벽 생성` </div>     |
-| <img src="/READMEfile/입고.mp4">      | <img src="/READMEfile/출고.mp4">       |
+| ![입고](https://github.com/user-attachments/assets/b0d66f69-dd57-48ee-8cb4-4e3279e4aba4)     | ![출고](https://github.com/user-attachments/assets/2aadc9ba-cc40-4a81-b16a-2d2bd252207d)       |
 | <div align=center> `상품 입고` </div>   | <div align=center> `상품 출고 ` </div>   |
-| <img src="/READMEfile/상품이동.mp4">    | <img src="/READMEfile/마이페이지_알람.mp4"> |
+| ![상품이동](https://github.com/user-attachments/assets/7f1ecc0a-7309-4776-8d19-7cef74884a5f)    |![마이페이지_알람](https://github.com/user-attachments/assets/d13fc999-8e39-44b7-b849-fd6c2cb58606) |
 | <div align=center> `상품 이동` </div>   | <div align=center> `알림 내역` </div>    |
 
 
 <br>
+
 
 <br>
 
